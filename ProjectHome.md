@@ -1,0 +1,1 @@
+When Internet banking is used, the reference codes, typed by the bank, can be used to prepare financial statements, when the codes are read and understood by computer software. One of the biggest tasks when financial statements are prepared is to classify the transactions to general ledger accounts. The idea was to do that via automatization.
